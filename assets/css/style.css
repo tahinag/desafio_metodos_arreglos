@@ -1,0 +1,22 @@
+body {
+  background-color: gray;
+  margin: 50px;
+}
+h3 {
+  color: rgb(10, 10, 10);
+  font-size: 24px;
+}
+.list {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+ul {
+  list-style: none;
+}
+th {
+  font-size: 16pt;
+}
+li {
+  list-style: none;
+}
